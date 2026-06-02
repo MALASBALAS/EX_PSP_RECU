@@ -1,0 +1,20 @@
+jun 02, 2026 8:49:55 P. M. es.etg.balas.expsp.util.LogUtil escribirLog
+INFORMACIÓN: Resultado efecto 1: 198
+jun 02, 2026 8:49:55 P. M. es.etg.balas.expsp.util.LogUtil escribirLog
+INFORMACIÓN: Resultado efecto 1: 197
+jun 02, 2026 8:49:55 P. M. es.etg.balas.expsp.util.LogUtil escribirLog
+INFORMACIÓN: Resultado efecto 1: 199
+jun 02, 2026 8:49:55 P. M. es.etg.balas.expsp.util.LogUtil escribirLog
+INFORMACIÓN: Resultado efecto 1: 196
+jun 02, 2026 8:49:55 P. M. es.etg.balas.expsp.util.LogUtil escribirLog
+INFORMACIÓN: Resultado efecto 1: 195
+jun 02, 2026 8:49:55 P. M. es.etg.balas.expsp.util.LogUtil escribirLog
+INFORMACIÓN: Resultado efecto 2: 98
+jun 02, 2026 8:49:55 P. M. es.etg.balas.expsp.util.LogUtil escribirLog
+INFORMACIÓN: Resultado efecto 2: 96
+jun 02, 2026 8:49:55 P. M. es.etg.balas.expsp.util.LogUtil escribirLog
+INFORMACIÓN: Resultado efecto 2: 94
+jun 02, 2026 8:49:55 P. M. es.etg.balas.expsp.util.LogUtil escribirLog
+INFORMACIÓN: Resultado efecto 2: 92
+jun 02, 2026 8:49:55 P. M. es.etg.balas.expsp.util.LogUtil escribirLog
+INFORMACIÓN: Resultado efecto 2: 90

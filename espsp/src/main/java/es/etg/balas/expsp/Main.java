@@ -1,5 +1,6 @@
 package es.etg.balas.expsp;
 
+import es.etg.balas.expsp.common.Constantes;
 import es.etg.balas.expsp.exceptions.ExceptionGlobal;
 import es.etg.balas.expsp.util.LogUtil;
 
@@ -7,7 +8,7 @@ public class Main {
 
     public static void main(String[] args) throws ExceptionGlobal {
         // 0. Inicializar log
-        LogUtil.crearLog("log.txt");
+        LogUtil.crearLog(Constantes.LOGGER);
 
         try {
             for (int i = 0; i < 5; i++) {

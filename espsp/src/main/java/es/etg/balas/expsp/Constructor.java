@@ -14,7 +14,7 @@ public class Constructor implements Runnable {
     @Override
     public void run() {
 
-        // 2. Crear efecto (esto se recibiría del cliente)
+        // 2. Crear efecto (esto se recibiría del cliente) valor de entrada [10 HUMO]
 
         String[] partes1;
         String[] partes2;
@@ -26,9 +26,10 @@ public class Constructor implements Runnable {
             return;
         }
         int cantidad1 = Integer.parseInt(partes1[0]);
-        int cantidad2 = Integer.parseInt(partes2[0]);
         String tipo1 = partes1[1];
+        int cantidad2 = Integer.parseInt(partes2[0]);
         String tipo2 = partes2[1];
+        
 
         // 3. Crear hash efecto
         String hash1 = tipo1 + cantidad1;
